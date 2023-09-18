@@ -4,6 +4,8 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
+# pip install requests bs4
+
 # Указываем адрес страницы для парсинга
 url = 'https://tou.edu.kz/armp/?lang=rus&menu=calendar&mod=shedule_prep_kaf'
 
